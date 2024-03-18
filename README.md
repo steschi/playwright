@@ -1,0 +1,1 @@
+A custom playwright docker container with additional preinstalled dependencies (like git-lfs, gh-cli)
